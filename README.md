@@ -18,7 +18,7 @@ En WebDevWhispers, no solo enseñamos a codificar 👨🏻‍💻, exploramos el
 #### Repositorios Boilerplate
 - **React Boilerplate**: Plantilla inicial para proyectos React. [Ver Repositorio](URL_REACT_BOILERPLATE)
 - **Node.js Boilerplate**: Plantilla inicial para proyectos Node.js. [Ver Repositorio](URL_NODE_BOILERPLATE)
-- **JavaScript Boilerplate**: Plantilla inicial para proyectos JavaScript puros. [Ver Repositorio](URL_JAVASCRIPT_BOILERPLATE)
+- **JavaScript Boilerplate**: Plantilla inicial para proyectos JavaScript Vanilla. [Ver Repositorio](https://github.com/WebDevWhispers/Boilerplate-JS)
 
 &nbsp;
 
