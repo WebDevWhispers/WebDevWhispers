@@ -16,9 +16,9 @@ En WebDevWhispers, no solo enseñamos a codificar 👨🏻‍💻, exploramos el
 - 🌐 **[Demo en vivo](URL_DE_LA_DEMO)**: Prueba la herramienta en tu navegador.
 
 #### Repositorios Boilerplate
-- **React Boilerplate**: Plantilla inicial para proyectos React. [Ver Repositorio](URL_REACT_BOILERPLATE)
-- **Node.js Boilerplate**: Plantilla inicial para proyectos Node.js. [Ver Repositorio](https://github.com/WebDevWhispers/Boilerplate-NodeJS)
 - **JavaScript Boilerplate**: Plantilla inicial para proyectos JavaScript Vanilla. [Ver Repositorio](https://github.com/WebDevWhispers/Boilerplate-JS)
+- **Node.js Boilerplate**: Plantilla inicial para proyectos Node.js. [Ver Repositorio](https://github.com/WebDevWhispers/Boilerplate-NodeJS)
+- **PHP Boilerplate**: Plantilla inicial para proyectos con PHP, Apache y MariaDB. [Ver Repositorio](https://github.com/WebDevWhispers/Boilerplate-PHP)
 
 &nbsp;
 
