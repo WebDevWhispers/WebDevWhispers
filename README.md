@@ -4,7 +4,7 @@
 &nbsp;
 
 ### ✏️ Introducción
-En WebDevWhispers, no solo enseñamos a codificar 👨🏻‍💻, exploramos el arte detrás de cada línea de código, fusionando lógica y creatividad para transformar la programación en una expresión genuina y artística.
+En WebDevWhispers, enseñamos a programar 👨🏻‍💻, con un enfoque que combina lógica y creatividad, para que cada línea de código sea clara y funcional.
 
 &nbsp;
 
